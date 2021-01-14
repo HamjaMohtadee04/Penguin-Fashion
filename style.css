@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.first-part{
+    background-color: bisque;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    color: rgb(245, 162, 54);
+}
+.text2{
+    text-align: center;
+    color:rgb(20, 20, 66);
+}
+.gap100{
+    padding: 70px 0px;
+}
+.jacket{
+    color:rgb(20, 20, 66) ;
+}
+.price{
+    color: rgb(245, 162, 54);
+}
